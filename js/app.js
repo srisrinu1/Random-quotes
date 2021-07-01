@@ -37,6 +37,7 @@ function fetchData() {
             // console.log(data["content"]);
             let quote = document.getElementById("quote");
             quote.innerText = data["content"];
+            quote.style.fontStyle = "Italic";
         })
         .catch(err => {
             console.error(err);
