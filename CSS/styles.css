@@ -1,0 +1,25 @@
+.quoteCard {
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url('https://source.unsplash.com/800x600/?nature,mountains');
+    background-size: cover;
+    min-height: 500px;
+    width: 100%;
+    padding: 4rem;
+    border-radius: 20px;
+}
+
+#author {
+    text-align: end;
+}
+
+.btn {
+    text-align: center;
+}
+
+
+/* @media (max-width:500px) {
+    .quoteCard {
+        min-width: 456px;
+        max-width: 356px;
+        width: 50%;
+    }
+} */
