@@ -1,5 +1,5 @@
 .quoteCard {
-    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url('https://source.unsplash.com/800x600/?nature,mountains');
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url('https://source.unsplash.com/800x600/?nature');
     background-size: cover;
     min-height: 500px;
     width: 100%;
