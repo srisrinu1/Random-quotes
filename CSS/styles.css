@@ -8,7 +8,16 @@
     position: relative;
 }
 
-#author {
+.quote {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    bottom: 5px;
+}
+
+
+/* #author {
     text-align: end;
     position: absolute;
     right: 5rem;
@@ -17,7 +26,7 @@
 
 #author::before {
     content: "- ";
-}
+} */
 
 .btn {
     text-align: center;
