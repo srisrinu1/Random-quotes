@@ -1,7 +1,7 @@
 .quoteCard {
     background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url('https://source.unsplash.com/800x600/?nature');
     background-size: cover;
-    min-height: 700px;
+    min-height: 400px;
     width: 100%;
     padding: 4rem;
     border-radius: 20px;
@@ -12,6 +12,7 @@
     position: absolute;
     top: 50px;
     bottom: 5px;
+    font-size: 30px;
     /* transition: all 0.5s ease-in-out; */
 }
 
