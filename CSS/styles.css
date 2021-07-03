@@ -11,8 +11,10 @@
 #quote {
     position: absolute;
     top: 50px;
+    left: 20px;
     bottom: 5px;
     font-size: 32px;
+    overflow: wrap;
     /* transition: all 0.5s ease-in-out; */
 }
 
