@@ -38,6 +38,13 @@
     text-align: center;
 }
 
+#btn1,
+#btn2 {
+    background: #6366F1;
+    color: white;
+    border: black;
+}
+
 
 /* @media (max-width:500px) {
     .quoteCard {
